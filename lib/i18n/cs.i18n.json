@@ -1,0 +1,92 @@
+{
+  "appName": "GeoQuest",
+  "common": {
+    "cancel": "Zrušit",
+    "back": "Zpět",
+    "loading": "Načítání...",
+    "error": "Chyba: $error",
+    "mil": "mil."
+  },
+  "mainMenu": {
+    "title": "GeoQuest",
+    "start": "Spustit hru",
+    "settings": "Nastavení",
+    "leaderboard": "Žebříček"
+  },
+  "settings": {
+    "title": "Nastavení",
+    "language": "Jazyk",
+    "theme": "Tmavý režim"
+  },
+  "dashboard": {
+    "gameModes": "Herní Módy",
+    "level": "Lvl $level",
+    "cards": {
+      "flags": {
+        "title": "Vlajky Světa",
+        "subtitle": "Klasický mód"
+      },
+      "capitals": {
+        "title": "Hlavní Města",
+        "subtitle": "Kdo vládne kde?"
+      },
+      "reverse": {
+        "title": "Obrácený Kvíz",
+        "subtitle": "Najdi vlajku"
+      },
+      "regions": {
+        "title": "Regiony",
+        "subtitle": "Evropa, Asie..."
+      }
+    },
+    "regionDialog": {
+      "title": "Vyber region"
+    }
+  },
+  "regions": {
+    "world": "Celý svět",
+    "europe": "Evropa",
+    "africa": "Afrika",
+    "americas": "Amerika",
+    "asia": "Asie",
+    "oceania": "Austrálie a Oceánie"
+  },
+  "game": {
+    "score": "Skóre",
+    "timer": "${time}s",
+    "progress": "Otázka $current / $total",
+    "questionCapital": "Jaké zemi patří hlavní město:",
+    "unknownCapital": "???",
+    "achievementUnlocked": "Achievement odemčen!",
+    "gameOver": {
+      "title": "Hra skončila!",
+      "scoreText": "Tvé skóre: $score / $total",
+      "xpEarned": "Získáno XP: +$xp",
+      "timeOut": "Došel ti čas!",
+      "backToMenu": "Zpět do menu"
+    }
+  },
+  "encyclopedia": {
+    "title": "Atlas Zemí",
+    "searchPlaceholder": "Hledat zemi...",
+    "groupBy": "Seskupit podle",
+    "alphabet": "Abeceda",
+    "continent": "Kontinent",
+    "detail": {
+      "capital": "Hlavní město",
+      "region": "Region",
+      "population": "Populace",
+      "code": "Kód (ISO)",
+      "openMap": "Zobrazit na mapě"
+    }
+  },
+  "profile": {
+    "title": "Můj Profil",
+    "level": "Úroveň $level",
+    "totalXp": "$xp celkových XP",
+    "gamesPlayed": "Hry",
+    "streak": "Streak",
+    "achievements": "Achievementy",
+    "days": "$count d."
+  }
+}
